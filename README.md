@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**ManikandanMuruganantham/ManikandanMuruganantham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Manikandan Muruganantham**  
 
-Here are some ideas to get you started:
+🔹 Lead Technical Writer with a passion for **Docs-as-Code** and modern documentation practices  
+🔹 Currently learning **Git, GitHub, CI/CD pipelines, and static site generation**  
+🔹 Exploring **open source documentation** and building a strong technical writing portfolio  
+🔹 Interested in **DevOps, automation, and AI-powered documentation**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Do
+- Write clear, user-focused software documentation  
+- Organize and publish docs with **Git-based workflows**  
+- Experiment with **automation** to improve documentation efficiency  
+
+### 🌱 What I’m Learning
+- Git | GitHub | GitLab | CI/CD pipelines | Non stop lerning
+- Static website creation for docs  
+- Open source collaboration and contributions  
+
+### 🤝 Let’s Connect
+📫 Reach me on [LinkedIn] (https://www.linkedin.com/in/mani-kandan-081448130/))
