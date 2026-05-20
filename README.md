@@ -2,8 +2,8 @@
 
 I’m **Manikandan Muruganantham**  
 
-🔹 Lead Technical Writer with a passion for **Docs-as-Code** and modern documentation practices  
-🔹 Currently learning **Git, GitHub, CI/CD pipelines, and static site generation**  
+🔹 Senior Lead Technical Writer with a passion for **Docs-as-Code** and modern documentation practices  
+🔹 Using **Git, GitHub, CI/CD pipelines, and static site generation**  
 🔹 Exploring **open source documentation** and building a strong technical writing portfolio  
 🔹 Interested in **DevOps, automation, and AI-powered documentation**  
 
@@ -13,7 +13,7 @@ I’m **Manikandan Muruganantham**
 - Experiment with **automation** to improve documentation efficiency  
 
 ### 🌱 What I’m Learning
-- Git | GitHub | GitLab | CI/CD pipelines | Non stop lerning
+- Non stop lerning
 - Static website creation for docs  
 - Open source collaboration and contributions  
 
